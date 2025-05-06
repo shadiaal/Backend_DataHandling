@@ -56,7 +56,7 @@ GET /api/Products/GetProducts?pageNumber=2&pageSize=5&sortBy=price
 ]
 ```
 
-## 🗂 Required Files
+## Required Files
 
 - Place a `products.txt` file in the `Data/` directory at the root of the project.
 - Each line in the file should be in this format:
