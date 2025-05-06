@@ -69,9 +69,8 @@ GET /api/Products/GetProducts?pageNumber=2&pageSize=5&sortBy=price
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/product-api.git
-   cd product-api
-   ```
+   git clone https://github.com/shadiaal/Backend_DataHandling.git
+   cd Backend_DataHandling
 
 2. Run the application using Visual Studio or:
    ```bash
@@ -80,7 +79,7 @@ GET /api/Products/GetProducts?pageNumber=2&pageSize=5&sortBy=price
 
 3. Use **Postman**, **Swagger**, or browser to access:
    ```
-   https://localhost:<port>/api/Products/GetProducts
+   https://localhost:7269/api/Products/GetProducts
    ```
 
 ---
