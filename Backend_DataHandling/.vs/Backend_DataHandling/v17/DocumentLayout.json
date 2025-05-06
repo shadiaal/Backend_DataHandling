@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\Week11\\Week11_Day3\\Backend_DataHandling\\Backend_DataHandling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8F9444-18A8-4F2F-82AF-5275953A4413}|Backend_DataHandling\\Backend_DataHandling.csproj|c:\\users\\soosh\\desktop\\elm-training program\\practice\\week11\\week11_day3\\backend_datahandling\\backend_datahandling\\backend_datahandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C8F9444-18A8-4F2F-82AF-5275953A4413}|Backend_DataHandling\\Backend_DataHandling.csproj|solutionrelative:backend_datahandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8F9444-18A8-4F2F-82AF-5275953A4413}|Backend_DataHandling\\Backend_DataHandling.csproj|c:\\users\\soosh\\desktop\\elm-training program\\practice\\week11\\week11_day3\\backend_datahandling\\backend_datahandling\\backend_datahandling\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C8F9444-18A8-4F2F-82AF-5275953A4413}|Backend_DataHandling\\Backend_DataHandling.csproj|solutionrelative:backend_datahandling\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8F9444-18A8-4F2F-82AF-5275953A4413}|Backend_DataHandling\\Backend_DataHandling.csproj|c:\\users\\soosh\\desktop\\elm-training program\\practice\\week11\\week11_day3\\backend_datahandling\\backend_datahandling\\backend_datahandling\\services\\productsorterhostedservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C8F9444-18A8-4F2F-82AF-5275953A4413}|Backend_DataHandling\\Backend_DataHandling.csproj|solutionrelative:backend_datahandling\\services\\productsorterhostedservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8F9444-18A8-4F2F-82AF-5275953A4413}|Backend_DataHandling\\Backend_DataHandling.csproj|c:\\users\\soosh\\desktop\\elm-training program\\practice\\week11\\week11_day3\\backend_datahandling\\backend_datahandling\\backend_datahandling\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C8F9444-18A8-4F2F-82AF-5275953A4413}|Backend_DataHandling\\Backend_DataHandling.csproj|solutionrelative:backend_datahandling\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8F9444-18A8-4F2F-82AF-5275953A4413}|Backend_DataHandling\\Backend_DataHandling.csproj|c:\\users\\soosh\\desktop\\elm-training program\\practice\\week11\\week11_day3\\backend_datahandling\\backend_datahandling\\backend_datahandling\\data\\products.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9C8F9444-18A8-4F2F-82AF-5275953A4413}|Backend_DataHandling\\Backend_DataHandling.csproj|solutionrelative:backend_datahandling\\data\\products.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\Week11\\Week11_Day3\\Backend_DataHandling\\Backend_DataHandling\\Backend_DataHandling\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Backend_DataHandling\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\Week11\\Week11_Day3\\Backend_DataHandling\\Backend_DataHandling\\Backend_DataHandling\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Backend_DataHandling\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:19:27.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\Week11\\Week11_Day3\\Backend_DataHandling\\Backend_DataHandling\\Backend_DataHandling\\Program.cs",
+              "RelativeDocumentMoniker": "Backend_DataHandling\\Program.cs",
+              "ToolTip": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\Week11\\Week11_Day3\\Backend_DataHandling\\Backend_DataHandling\\Backend_DataHandling\\Program.cs",
+              "RelativeToolTip": "Backend_DataHandling\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:18:55.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductSorterHostedService .cs",
+              "DocumentMoniker": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\Week11\\Week11_Day3\\Backend_DataHandling\\Backend_DataHandling\\Backend_DataHandling\\Services\\ProductSorterHostedService .cs",
+              "RelativeDocumentMoniker": "Backend_DataHandling\\Services\\ProductSorterHostedService .cs",
+              "ToolTip": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\Week11\\Week11_Day3\\Backend_DataHandling\\Backend_DataHandling\\Backend_DataHandling\\Services\\ProductSorterHostedService .cs",
+              "RelativeToolTip": "Backend_DataHandling\\Services\\ProductSorterHostedService .cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:18:07.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\Week11\\Week11_Day3\\Backend_DataHandling\\Backend_DataHandling\\Backend_DataHandling\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Backend_DataHandling\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\Week11\\Week11_Day3\\Backend_DataHandling\\Backend_DataHandling\\Backend_DataHandling\\Models\\Product.cs",
+              "RelativeToolTip": "Backend_DataHandling\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:17:24.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "products.txt",
+              "DocumentMoniker": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\Week11\\Week11_Day3\\Backend_DataHandling\\Backend_DataHandling\\Backend_DataHandling\\Data\\products.txt",
+              "RelativeDocumentMoniker": "Backend_DataHandling\\Data\\products.txt",
+              "ToolTip": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\Week11\\Week11_Day3\\Backend_DataHandling\\Backend_DataHandling\\Backend_DataHandling\\Data\\products.txt",
+              "RelativeToolTip": "Backend_DataHandling\\Data\\products.txt",
+              "ViewState": "AgIAAKgCAAAAAAAAAAAAAL4CAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-06T09:15:54.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
